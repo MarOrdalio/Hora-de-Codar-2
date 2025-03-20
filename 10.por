@@ -8,6 +8,7 @@ programa {
    escreva("qual o gênero designado ao seu nascer, digite 1 para masculino e 2 para feminino: ")
    leia(genero)
     
+    
     se(genero == 1){
       escreva("o gênero escolhido foi, masculino \n")
       escreva("qual é a sua altura atual: ")
